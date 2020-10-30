@@ -38,7 +38,7 @@ const {
 
 
 // //Mongoose package for DB connection
-mongoose.connect('mongodb://'+MONGO_URL+'/'+MONGO_DATABASE, 
+mongoose.connect('mongodb://'+MONGO_URL+'/'+MONGO_DATABASE+'?authSource=admin', 
 { 
   useNewUrlParser: true,
   auth: {
