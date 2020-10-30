@@ -1,0 +1,17 @@
+[
+      {
+            "City": "Pune",
+            "Element": "Precipitation",
+            "value": "69%"
+      },
+      {
+            "City": "Pune",
+            "Element": "Humidity",
+            "value": "71%"
+      },
+	  {
+            "City": "Pune",
+            "Element": "Wind",
+            "value": "10 km/h"
+      }
+]
